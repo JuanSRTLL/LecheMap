@@ -1,0 +1,93 @@
+## Archivos de usuario de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Archivos de usuario de Visual Studio (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+## Archivos específicos de proyecto
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## Archivos temporales de Visual Studio
+.vs/
+*.[Cc]ache
+*.[Cc]ache/
+
+## Archivos de respaldo y reportes
+*.bak
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+## Archivos de test
+TestResults/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## Archivos de paquetes NuGet
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Archivos específicos de WebForms
+App_Data/
+App_Browsers/
+
+## Archivos de publicación Web
+*.Publish.xml
+*.pubxml
+*.publishproj
+PublishProfiles/
+*.deployproj
+
+## Archivos de Node.js (si usas npm/nodejs en el proyecto)
+node_modules/
+npm-debug.log
+
+## Archivos temporales de Windows
+$RECYCLE.BIN/
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+
+## Archivos de respaldo
+*~
+*.swp
+*.bak
+*.tmp
+
+## Archivos de configuración de ambiente
+*.env
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+## Archivos de SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+## Otros archivos y carpetas comunes a ignorar
+_UpgradeReport_Files/
+[Bb]ackup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
